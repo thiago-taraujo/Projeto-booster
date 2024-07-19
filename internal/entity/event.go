@@ -1,9 +1,9 @@
 package entity
 
 import (
+	"Projeto-booster/pkg/entity"
 	"errors"
 	"time"
-
 )
 
 var (

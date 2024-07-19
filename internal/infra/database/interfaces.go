@@ -1,6 +1,6 @@
 package database
 
-import "github.com/stefanoMat/boost/6-full-api/internal/entity"
+import "Projeto-booster/internal/entity"
 
 type EventInterface interface {
 	Create(event *entity.Event) error

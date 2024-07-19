@@ -1,7 +1,8 @@
 package database
 
 import (
-	"github.com/stefanoMat/boost/6-full-api/internal/entity"
+	"Projeto-booster/internal/entity"
+
 	"gorm.io/gorm"
 )
 

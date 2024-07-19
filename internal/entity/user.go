@@ -1,8 +1,9 @@
 package entity
 
 import (
+	"Projeto-booster/pkg/entity"
 	"time"
-	
+
 	"golang.org/x/crypto/bcrypt"
 )
 

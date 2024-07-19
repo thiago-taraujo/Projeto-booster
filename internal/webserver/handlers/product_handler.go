@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi"
-	"github.com/stefanoMat/boost/6-full-api/internal/dto"
-	"github.com/stefanoMat/boost/6-full-api/internal/entity"
-	"github.com/stefanoMat/boost/6-full-api/internal/infra/database"
+	"Projeto-booster/internal/dto"
+	"Projeto-booster/internal/entity"
+	"Projeto-booster/internal/infra/database"
 )
 
 type EventHandler struct {
